@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Adam 👨‍💻
+
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
 
 <!--
 **aupholzer/aupholzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
