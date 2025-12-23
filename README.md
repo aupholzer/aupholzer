@@ -31,7 +31,7 @@ My work focuses on **making systems think and act**, not just report.
 - Automation patterns designed to survive org and tool changes
 
 ### ☎️ Communications & Voice Automation
-- **[RingCentral] Ignite Partner**
+- **[RingCentral](chatgpt://generic-entity?number=0) Ignite Partner**
 - Full RingCentral lifecycle management:
   - Deployments
   - Migrations
@@ -120,15 +120,14 @@ I’m often brought in when:
 
 ## Contact & Consulting
 
+🌐 **Website:** https://adamupholzer.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/adamupholzer  
+
 If you’re looking to:
 - Standardize data around CDM
 - Turn Copilot into an active workforce
 - Automate operations, not just reports
 - Make RingCentral work smarter across your org
-
-📧 **Contact:** *(add email)*  
-🌐 **Consulting:** Cloud Voice Partners  
-💼 **LinkedIn:** *(add link)*
 
 ---
 
