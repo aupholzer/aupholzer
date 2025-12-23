@@ -1,95 +1,135 @@
-# 👋 Hey, I’m Adam Upholzer
+# Adam Upholzer  
+### Data Engineering • Agentic Automation • Microsoft Ecosystem Consulting
 
-🚀 **Sales Execution Manager @ AT&T**  
-📊 **Analytics, Automation & Infrastructure Builder**  
-🌐 **Cloud • Networking • Data • Apple Ecosystem**
+I help organizations **transform raw, fragmented data into standardized, actionable intelligence** using Microsoft’s **Common Data Model (CDM)** — then operationalize that data with **custom Copilot agents and agentic workers** that automate real business processes.
 
-I build **systems that scale**, automate the boring stuff, and turn messy data into clear decisions.  
-My work sits at the intersection of **business execution**, **data analytics**, and **modern infrastructure** — both professionally and in my own projects.
+My work focuses on **making systems think and act**, not just report.
 
 ---
 
-## 🧠 What I’m Focused On
+## What Clients Hire Me For
 
-- **Sales & Business Intelligence**
-  - Power BI dashboards, semantic models, star schemas
-  - Automated reporting pipelines & executive-ready insights
-  - Turning operational noise into actionable signals
+### 🧱 Data Engineering & Standardization
+- Transforming disparate source data into **Microsoft Common Data Model–aligned schemas**
+- Designing clean, reusable semantic layers for analytics and automation
+- Data shaping for Power Platform, Copilot, and downstream agents
+- Eliminating “spreadsheet glue” and brittle manual transformations
 
-- **Infrastructure & Networking**
-  - UniFi (VLANs, firewall zones, traffic segmentation)
-  - Cloudflare (Zero Trust, Tunnels, Workers, DNS, Access)
-  - Security-first, privacy-centric home & business networks
+### 🤖 Copilot Agents & Agentic Workers
+- Custom Copilot agents tailored to specific business functions
+- Agentic workers that:
+  - Monitor systems
+  - Take actions
+  - Trigger workflows
+  - Communicate outcomes automatically
+- AI agents that **do the work**, not just answer questions
 
-- **Automation & DevOps**
-  - GitHub Actions, CI/CD, environment-driven config
-  - n8n workflows & event-based automations
-  - Terraform-style infrastructure thinking (even when not using Terraform)
+### ⚙️ Business Automation (Microsoft Power Platform)
+- Power Automate flows for operational processes
+- Event-driven automations triggered by data changes
+- Integration-first designs that scale beyond single workflows
+- Automation patterns designed to survive org and tool changes
 
-- **Apple-Centric Power Workflows**
-  - iCloud Drive + Finder tags + Shortcuts
-  - Apple Intelligence–assisted document classification
-  - SwiftUI & document-based app experimentation
+### ☎️ Communications & Voice Automation
+- **[RingCentral] Ignite Partner**
+- Full RingCentral lifecycle management:
+  - Deployments
+  - Migrations
+  - Number porting
+  - Ongoing optimization
+- Custom RingCentral API integrations to:
+  - Enrich call data
+  - Trigger workflows
+  - Automate post-call actions
+  - Tie voice activity directly into business systems
 
----
-
-## 🛠 Tech Stack (Real-World, Not Buzzwords)
-
-**Data & Analytics**
-- Power BI (DAX, modeling, performance tuning)
-- SQL • CSV pipelines • API-driven datasets
-
-**Cloud & Networking**
-- Cloudflare (Workers, Pages, Access, Zero Trust)
-- UniFi (UDM Pro SE, VLAN design, IPS/IDS)
-- DNS, TLS, identity-aware proxies
-
-**Automation & Tooling**
-- GitHub Actions
-- n8n (Dockerized)
-- REST APIs & webhooks
-
-**Apple Ecosystem**
-- macOS / iOS power workflows
-- Shortcuts • SwiftUI • SwiftData
-- iCloud Drive automation patterns
+### 💬 Teams-Centric Operations
+- Microsoft Teams as an **operational command surface**
+- Bots and workflows that surface data where people already work
+- Automated notifications, approvals, and actions inside Teams
+- Reducing context-switching across tools
 
 ---
 
-## 🧩 Projects & Systems I’m Building
+## How I Think About Systems
 
-- **Personal & Legal Document Automation**
-  - Auto-classification, tagging, and structured storage
-  - Designed for speed, auditability, and clarity
+- **Data first** — automation is only as good as the data model
+- **Standardize early** — CDM alignment unlocks scale
+- **Agents over dashboards** — insight without action is waste
+- **Integrate, don’t duct-tape** — APIs beat exports every time
+- **Operational intelligence > reporting**
 
-- **Cloud Voice Partners**
-  - Business automation & infrastructure workflows
-  - Secure, scalable foundations for small businesses
-
-- **Community & Data Platforms**
-  - CMS-driven entity modeling
-  - Membership, events, and operational data systems
-
----
-
-## 🧭 How I Think
-
-- Systems > tools  
-- Automation before repetition  
-- Security and privacy are defaults, not add-ons  
-- Documentation is part of the build  
-- If it can be modeled, it can be automated
+I’m often brought in when:
+- Data exists but isn’t usable across systems
+- Reporting works, but operations are still manual
+- Copilot is enabled but underperforming
+- Phone systems generate data that goes unused
+- Teams is chat-heavy but operationally passive
 
 ---
 
-## 📫 Connect
+## Representative Engagements
 
-- 💼 **LinkedIn:** *(add link here)*
-- 🌐 **Domains:** multiple active Cloudflare-managed properties
-- 📧 **Email:** *(add preferred contact)*
+- **CDM-Aligned Data Transformations**
+  - Converted unstructured operational data into reusable CDM models
+  - Enabled downstream Power Platform automation and Copilot agents
+
+- **Agentic Operations**
+  - Built autonomous agents to monitor events and execute workflows
+  - Reduced manual operational touchpoints across departments
+
+- **RingCentral Smart Integrations**
+  - Integrated call events with business systems via APIs
+  - Automated logging, follow-ups, and workflow triggers
+  - Made voice data actionable instead of archival
+
+- **Teams as an Ops Hub**
+  - Delivered agent-driven workflows directly into Teams
+  - Turned notifications into decisions and actions
 
 ---
 
-> *“Good systems disappear. Bad ones demand attention.”*
+## Tooling & Platforms
 
-⭐ If something here helps you think better about data, infrastructure, or automation — feel free to fork, adapt, or reach out.
+**Microsoft Stack**
+- Power Automate
+- Power Platform
+- Microsoft Teams
+- Copilot Studio & custom agents
+- Common Data Model (CDM)
+
+**Voice & Communications**
+- RingCentral (Ignite Partner)
+- RingCentral APIs & webhooks
+
+**Integration & Automation**
+- REST APIs
+- Webhooks
+- Event-driven architectures
+
+---
+
+## Engagement Model
+
+- Architecture-first discovery
+- Clear data model and automation roadmap
+- Incremental delivery with visible operational wins
+- Solutions designed to be owned, extended, and trusted
+
+---
+
+## Contact & Consulting
+
+If you’re looking to:
+- Standardize data around CDM
+- Turn Copilot into an active workforce
+- Automate operations, not just reports
+- Make RingCentral work smarter across your org
+
+📧 **Contact:** *(add email)*  
+🌐 **Consulting:** Cloud Voice Partners  
+💼 **LinkedIn:** *(add link)*
+
+---
+
+> *Data becomes powerful when it can act.*
